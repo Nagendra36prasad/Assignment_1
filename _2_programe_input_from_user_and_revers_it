@@ -1,0 +1,5 @@
+Name = "Edyoda"
+
+for i in range(len(Name) - 1, -1, -1):
+  print(Name[i], end="")
+print("\n")
