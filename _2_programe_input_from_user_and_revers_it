@@ -1,5 +1,6 @@
-word = input("Input a word to reverse: ")
+#Write a Python program that accepts a word from the user and reverse it.
 
+word = input("Input a word to reverse: ")
 
 for i in range(len(Name) - 1, -1, -1):
   print(Name[i], end="")
