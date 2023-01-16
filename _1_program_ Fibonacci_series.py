@@ -7,8 +7,11 @@ a = 0
 b = 1
 print("Fibonacci series between 0 to 50 is: ")
 while b<50:
+    print(b,end = "  ")
     a,b = b,a+b
-    print(b , end = "")
+    
+
+    
 
 
 
